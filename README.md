@@ -13,6 +13,8 @@ The goal of this project is to build a Logistic Regression model to predict whet
 5. Model Building
 6. Model Evaluation
 
+![Titanic](titanic.png)
+
 ## Getting Started
 
 ### Prerequisites
@@ -170,5 +172,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Kaggle for the Titanic dataset.
 - The open-source community for the libraries used in this project.
-
-![Titanic](titanic.png)
